@@ -14,8 +14,7 @@
     github, y se escribe el sig. comando:
         git remote add origin URL-O-SSH-KEY
 
-# De este paso en adelante, va a ser lo mas repetitivo que vamos a hacer, lo anterior se hace una sola vez 
-# al principio cuando se crea
+# De este paso en adelante, va a ser lo mas repetitivo que vamos a hacer, lo anterior se hace una sola vez al principio cuando se crea
     
     4) Hay que agregar los archivos al "staging area", para esto se pueden usar dos comandos, el primero
     agregará todos los archivos, y el segundo sólo los que yo indique con su nombre:
